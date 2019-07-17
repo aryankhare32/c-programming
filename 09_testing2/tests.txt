@@ -1,0 +1,16 @@
+aaaaa bbbbb
+babab ababa
+abcde abcde
+a     a
+1a2v2 1a2vv
+12345 11111
+aaaaaa hhhhhh
+aaaaaaaaaaa
+///// 12a/b
+11 .  11 .
+aaaaa bbbbc
+aaaab bcccc
+abcde fghijk
+aaaaa bbbb
+
+
