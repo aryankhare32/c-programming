@@ -12,5 +12,10 @@ Kd 4d 2d Jd 8d 5d 7d;Ac 2c 9c 0c Jc Kc 5c
 0s 9s 8s 7s 6s 7c 6c;0c 9c 8c 7c 6c
 As Ks Qd Jd 0d 5d 4d; 5c 4c 3c 2c Ac
 As Kc Qs Js 0s 9s 8c;As Kd Qc Jd 0d 5d 4d
-Ks Kd 1c 3s 5s 6s 4c; 5d 4s 3c 2h Ah 8c 9c
+Ac Kc Jc Qc 9s ; Kc Ah 0s 9h 7c
+Ah Qs 0s 9h 8c 7d 6h; 5s 4d 3h 2c 6h Ah
+3s 4s 2s 8s 5s 6s 7s; 3s 4d 2c 5h 8d 6c 7s
+Ks Kd 3c 3s 5s 6s 4d; 5d 4s 3c 2h Ah 8c 9c
+
+
 
